@@ -6,7 +6,7 @@ Module 8 Journal
      When I approach designing software, I start by understanding what the final result should look like and what requirements will need to be met.
    For this final project, this meant carefully looking over my reference photo and breaking it down into simple objects that could be recreated by using
    basic shapes. Working on this project helped me develop stronger design skills by learning how to simplify objects in the real world by turning them
-   into manageable parts but still keeping them recognizable. I followed a step-by-step design process throughout the project, by starting with planning my
+   into manageable parts but still keeping them recognizable. I followed a step-by-step design process throughout the project by starting with planning my
    layout, then gradually building the scene throughout each milestone by adding camera movements, then textures, and finished with lighting. Then I was able
    to build the rest of the objects for my scene, and fine-tuned things like the size of some objects, the textures, and the lighting. Doing it this way through
    each milestone taught me how to improve a scene gradually over time without becoming too overwhelmed. Using these same tactics, like planning ahead, and refining
