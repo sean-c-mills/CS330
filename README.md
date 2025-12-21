@@ -3,7 +3,7 @@
 ## Final Project Files
 https://snhu-my.sharepoint.com/:u:/r/personal/sean_mills1_snhu_edu/Documents/7-1_FinalProjectMilestones.zip?csf=1&web=1&e=reWxmz
 
-##Module 8 Journal
+## Module 8 Journal
 
 1. How do I approach designing software?
 
